@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahulpawar96
 - 👀 I’m interested in programming always
-- - 🌱 I’m currently learning java/c++/python more n more
+- 🌱 I’m currently learning java/c++/python more n more
 - 💞️ I’m looking to collaborate on projects
 - 📫 you can reach me at rahul.pawar96@gmail.com
 
