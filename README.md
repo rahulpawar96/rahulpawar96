@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahulpawar96
+- 👋 Hi, I’m Rahul Pawar.
 - 👀 I’m interested in programming always
 - 🌱 I’m currently learning java/c++/python more n more
 - 💞️ I’m looking to collaborate on projects
